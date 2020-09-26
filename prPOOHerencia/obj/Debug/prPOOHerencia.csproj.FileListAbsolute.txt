@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\prPOOHerencia\bin\Debug\prPOOHerencia.exe.config
+C:\Users\User\source\repos\prPOOHerencia\bin\Debug\prPOOHerencia.exe
+C:\Users\User\source\repos\prPOOHerencia\bin\Debug\prPOOHerencia.pdb
+C:\Users\User\source\repos\prPOOHerencia\bin\Debug\Clases.dll
+C:\Users\User\source\repos\prPOOHerencia\bin\Debug\Clases.pdb
+C:\Users\User\source\repos\prPOOHerencia\obj\Debug\prPOOHerencia.csprojAssemblyReference.cache
+C:\Users\User\source\repos\prPOOHerencia\obj\Debug\prPOOHerencia.Form1.resources
+C:\Users\User\source\repos\prPOOHerencia\obj\Debug\prPOOHerencia.Properties.Resources.resources
+C:\Users\User\source\repos\prPOOHerencia\obj\Debug\prPOOHerencia.csproj.GenerateResource.cache
+C:\Users\User\source\repos\prPOOHerencia\obj\Debug\prPOOHerencia.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prPOOHerencia\obj\Debug\prPOOHerencia.csproj.CopyComplete
+C:\Users\User\source\repos\prPOOHerencia\obj\Debug\prPOOHerencia.exe
+C:\Users\User\source\repos\prPOOHerencia\obj\Debug\prPOOHerencia.pdb
